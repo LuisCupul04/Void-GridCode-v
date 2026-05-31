@@ -1,0 +1,6 @@
+{
+  "name": "NoCode Web Creator",
+  "description": "Una potente arquitectura base de desarrollo web No-Code en Android, con lienzo interactivo, exportación ZIP y previsualización WebView en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
